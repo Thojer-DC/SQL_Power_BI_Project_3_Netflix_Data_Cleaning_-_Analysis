@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Cleaning And Analysis using Power BI & SQL
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![](https://github.com/Thojer-DC/SQL_Power_BI_Project_3_Netflix_Data_Cleaning_-_Analysis/blob/main/logo.png)
 
 ## Overview
 This project involves a basic cleaning and comprehensive analysis of Netflix's movies and TV shows data using Power BI & SQL. The goal is to prepare and extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
